@@ -15,7 +15,7 @@ const Navbar = () => {
         alignItems={"center"}
         sx={{ position: "sticky", top: 0, zIndex: 999, boxShadow: 2 }}
         height={"75px"}
-        bgcolor={colors.bgColor}
+        bgcolor={"gray"}
       >
         <img width={"150px"} src={youtubeLogo} alt="jpg" />
         <Search />

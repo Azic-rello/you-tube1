@@ -11,7 +11,6 @@ const App = () => {
         <Route path="/channel/:id" element={<Channel />} />
         <Route path="/search/:id" element={<Search />} />
         <Route path="/video/:id" element={<Video />} />
-        {/* jdsaljhfljsd */}
       </Routes>
     </Box>
   );
